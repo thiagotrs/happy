@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./web/src/images/logo.svg" alt="Happy" /></h1>
+<h1 align="center"><img src="./logo.svg" alt="Happy" /></h1>
 <p align="center">Project develop in Next Level Week #03</p>
 <p align="center">
   <a href="https://nodejs.org/en/">
