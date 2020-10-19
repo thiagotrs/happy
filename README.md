@@ -62,8 +62,8 @@ Mobile
 
 ```ssh
 cd mobile
-npm install
-npm run start
+yarn install
+yarn start
 ```
 
 ## Author
